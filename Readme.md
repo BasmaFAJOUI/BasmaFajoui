@@ -17,7 +17,6 @@ Welcome to my GitHub profile! Here, you'll find projects that reflect my interes
 
 ### Tools and Software
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-6DB33F?style=for-the-badge&logo=Kafka&logoColor=white)
 
