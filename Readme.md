@@ -1,4 +1,4 @@
-# 💼 Software Engineer | 🚀 Data Engineer 
+# 💼 Software Engineer | 🚀 Data Scientist 
 
 Welcome to my GitHub profile! Here, you'll find projects that reflect my interests in software development, Data engineering.
 
